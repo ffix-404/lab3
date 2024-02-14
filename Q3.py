@@ -1,0 +1,1 @@
+print(f"the Fahrenheit temperature= {9/5*(float(input("enter Celsius temperature:")))+32}")
